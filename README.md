@@ -1,6 +1,6 @@
 # Pizza Sales Analysis
 This Pizza Sales Analysis Project features a dynamic Microsoft Excel dashboard that breathes life into the realm of pizza sales data. Our interactive dashboard empowers users to explore, gain insights, and drive data-driven decisions based on essential performance metrics. 
-The dataset, "Pizza.csv," contains information about pizzas, orders, and sales.
+The dataset, "pizza_sales.csv," contains information about pizzas, orders, and sales.
 The analysis covers various aspects, including identifying the best and worst selling pizzas, determining total revenue generated, calculating average revenue, and examining sales trends on various time scales.
 
 # Tools Used
