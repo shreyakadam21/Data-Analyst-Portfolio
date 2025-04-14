@@ -22,9 +22,10 @@ This Pizza Sales Analysis Project features a dynamic Microsoft Excel dashboard t
 - Now, Add Title Pizza Sales Dashboard
 - Organized charts like Daily Trends, Hourly Trends, % Sales by Size/Category, and Best/Worst Sellers.
 
-# Dashboard
-This is an interactive Excel Dashboard
-Pizza Sales REPORT
- "https://github.com/shreyakadam21/Pizza_Sales_Report/blob/main/pizza_sales.csv"
+# Repository structure
+ Data - "https://github.com/shreyakadam21/Pizza_Sales_Report/blob/main/pizza_sales.csv"
+ Dashboard - 
+ Image - ![Pizza Report ](https://github.com/user-attachments/assets/c46178cd-1b13-4eee-abb0-785eb554d9fa)
+
 
 
