@@ -12,7 +12,7 @@ This Pizza Sales Analysis Project features a dynamic Microsoft Excel dashboard t
 - Imported data from SQL server into MS Excel for creating dashboard
 - Used Power Query editor to clean and transform the data
 - Apply all necessary cleaning steps, such as removing duplicates, renaming columns, and changing data types
-- Load and Apply the cleaned data into Power BI
+- Load and Apply the cleaned data into excel.
 - Design the dashboard layout
 - Used Excel formulas to calculate KPIs such as Average Order Value and Pizzas per Order
 - Inserted Pivot Charts (bar, line, donut, pie) for visual representation of trends
