@@ -21,3 +21,7 @@ This Pizza Sales Analysis Project features a dynamic Microsoft Excel dashboard t
 - Used Conditional Formatting to emphasize best and worst-selling pizzas
 - Now, Add Title Pizza Sales Dashboard
 - Organized charts like Daily Trends, Hourly Trends, % Sales by Size/Category, and Best/Worst Sellers.
+
+# Dashboard
+This is an interactive Excel Dashboard
+Pizza Sales REPORT
